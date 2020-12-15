@@ -23,6 +23,6 @@ Coded IN Python : 3.x
 
 # DONATION
 <pre>
-<span class="pl-k">&gt;<a href="https://www.paypal.com/paypalme/NumeXGans" rel="nofollow"><code>Paypal</code></a></span>
+<a href="https://www.paypal.com/paypalme/NumeXGans" rel="nofollow"><code>Paypal</code></a>
 <span class="pl-k">&gt;</spam> Gopay : 082198256727 - NumeX Gans
 </pre>
